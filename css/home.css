@@ -1,0 +1,22 @@
+body::after {
+    background-color: rgba(0, 0, 0, 0.596);
+}
+
+main {
+    width: 100%;
+}
+
+main .container h1 {
+    margin: 0;
+    padding-top: 100px;
+    text-align: center;
+    color: white;
+    font-size: 55px;
+    letter-spacing: 3px;
+    color: #DEB992;
+}
+
+main .container img {
+    height: 500px;
+    margin: 20px auto;
+}
